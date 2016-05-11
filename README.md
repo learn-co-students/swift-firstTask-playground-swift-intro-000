@@ -1,20 +1,30 @@
-# Playgroundlabvariableprint
+# Variables and Stuff
 
-## Objectives
+![Oscar Wilde](http://d.gr-assets.com/authors/1357460488p5/3565.jpg)
+> Be yourself; everyone else is already taken. -Oscar Wilde
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
+## Learning Objectives - The student should be able to..
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* Create variables and constants using let & var.
+* Use the print function to print their `String` types to the console.
+* Create variables of type `String` and `Int`.
+* Create variables using *type inference* and *type annotations*.
+* Use *string interpolation* to print out `String` literals to the console.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
 
-### Part 1: Do Some Stuff
 
-## Resources
+## What the student can do at this point 
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* The student will have read readme's on all that is outlined in the above learning objectives. Nothing more, nothing less. This will be the first lab (so to speak, there won't be any tests as they will be asked to fill in code in a playround file.
+
+
+
+## Outline / Notes
+
+*  Should we use markup in the playground file? [Markup Overview](https://developer.apple.com/library/ios/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497) . I like the idea of doing so, I've included a playground file along in this repo (if you want to check out the format I'm thinking about).
+* I like the idea of numbering tasks for students to complete within the playground file.
+* Possibly at the top of the playground file, using Markdown we can reference back to the readings that pertain to this particular lab.
+* Take a look at the playground file I included here which goes into a format I think we should use for these playground labs. At the bottom, I include a solution link which takes them to another swift file within the playground.
 
 <a href='https://learn.co/lessons/PlaygroundLabVariablePrint' data-visibility='hidden'>View this lesson on Learn.co</a>
