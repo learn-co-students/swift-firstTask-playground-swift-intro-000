@@ -1,7 +1,7 @@
 # Variables and Stuff
 
 ![Oscar Wilde](http://d.gr-assets.com/authors/1357460488p5/3565.jpg)
-> Be yourself; everyone else is already taken. -Oscar Wilde
+> Be yourself; everyone else is already taken.
 
 
 ## Learning Objectives - The student should be able to..
