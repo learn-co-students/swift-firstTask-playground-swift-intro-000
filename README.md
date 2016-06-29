@@ -1,9 +1,9 @@
 # Variables and Stuff
 
-![Oscar Wilde](http://d.gr-assets.com/authors/1357460488p5/3565.jpg)
-> Be yourself; everyone else is already taken.
+![Oscar Wilde](http://i.imgur.com/Brz1JgI.jpg?1)
+> Be yourself; everyone else is already taken. ~[Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde)
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives
 
 * Create variables and constants using `let` and `var`.
 * Use the `print()` function to print their `String` types to the console.
@@ -11,8 +11,9 @@
 * Create variables using *type inference* and *type annotations*.
 * Use *string interpolation* to print out `String` literals to the console.
 
-## What the student can do at this point 
+## Instructions
 
-* The student will have read readme's on all that is outlined in the above learning objectives. Nothing more, nothing less.
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
 
 <a href='https://learn.co/lessons/PlaygroundLabVariablePrint' data-visibility='hidden'>View this lesson on Learn.co</a>
