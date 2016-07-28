@@ -53,7 +53,16 @@ Then replace that section with what you think the answer is.. like so:
 
 ![answer](http://i.imgur.com/AELKrUs.png)
 
-After completing all of the questions, you will want to now go back to terminal to git add, commit and push up your changes. After doing so, you should submit in a pull request through Github. After doing so, you've now completed the lab!
+What exactly is a Playground file? A *playground* is an interactive Swift coding environment that evaluates each statement and displays results as updates are made, without the need to create project. Here's an example:
+
+![play](http://i.imgur.com/WkyEc2G.png)
+
+Notice how in the right pane, the playground file is able to compile and run this code *while* I'm typing it in. That's awesome and makes it a really great tool to learn how to code. As you move forward in your "learning how to program" career, if you're ever challenged with a topic or want to brush up on some material, create your own *playground* by launching Xcode and just start writing some code!
+
+
+### Now.. move forward and complete this lab! Good luck.
+
+
 
 
 
