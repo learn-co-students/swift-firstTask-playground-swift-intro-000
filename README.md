@@ -1,4 +1,4 @@
-# Variables and Stuff
+# Variables
 
 ![Oscar Wilde](http://i.imgur.com/Brz1JgI.jpg?1)
 > Be yourself; everyone else is already taken. -[Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde)
@@ -61,6 +61,8 @@ Notice how in the right pane, the playground file is able to compile and run thi
 
 
 ### Now.. move forward and complete this lab! Good luck.
+
+![luck](https://media.giphy.com/media/cMnt7i2RykmpW/giphy.gif)
 
 
 
