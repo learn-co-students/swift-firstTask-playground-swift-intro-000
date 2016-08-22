@@ -17,7 +17,7 @@ This is your first lab. Some labs require that you open up Xcode, other labs ask
 
 If you aren't familiar with Xcode, read [this](https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode). If you aren't familiar with how tests work and what your interaction will be with them, read [this](https://github.com/learn-co-curriculum/swift-xcode-warnings-errors) next.
 
-This lab is aking that you open up a playground file, and we'll walk you through those steps. The playground file has _no_ tests in it.
+This lab is asking that you open up a playground file, and we'll walk you through those steps. The playground file has _no_ tests in it.
 
 First things first, you should clone down this repository. If you aren't familiar with how to do that or the process of submitting labs, you should read [this](https://github.com/learn-co-curriculum/swift-functionFun-lab/tree/master).
 
