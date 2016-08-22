@@ -15,9 +15,9 @@
 
 This is your first lab. Some labs require that you open up Xcode, other labs ask that you open up the playground file. What does that mean?
 
-If you aren't familiar with Xcode, I suggest reading [this](https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode). If you aren't familiar with how tests work and what your interaction will be with them, read [this](https://github.com/learn-co-curriculum/swift-xcode-warnings-errors) next.
+If you aren't familiar with Xcode, read [this](https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode). If you aren't familiar with how tests work and what your interaction will be with them, read [this](https://github.com/learn-co-curriculum/swift-xcode-warnings-errors) next.
 
-This lab is aking that you open up a playground file, so I will walk you through those steps. The playground file has _no_ tests in it.
+This lab is aking that you open up a playground file, and we'll walk you through those steps. The playground file has _no_ tests in it.
 
 First things first, you should clone down this repository. If you aren't familiar with how to do that or the process of submitting labs, you should read [this](https://github.com/learn-co-curriculum/swift-functionFun-lab/tree/master).
 
@@ -43,7 +43,7 @@ You can check off the Render Documentation by opening up the Utilities pane (top
 
 ![checks](http://i.imgur.com/jTLIJye.png)
 
-Here's how you should be answering these various questions. I like to delete where it states
+Here's how you should be answering these various questions. We like to delete where it states
 
 ```swift
 // write your code here
