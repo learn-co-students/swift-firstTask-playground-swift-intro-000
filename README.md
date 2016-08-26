@@ -3,6 +3,10 @@
 ![Oscar Wilde](http://i.imgur.com/Brz1JgI.jpg?1)
 > Be yourself; everyone else is already taken. -[Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde)
 
+## Overview
+
+This Playgrounds lab, you'll create and print variables and constants that represent string and integer types. 
+
 ## Learning Objectives
 
 * Create variables and constants using `let` and `var`.
@@ -15,11 +19,9 @@
 
 This is your first lab. Some labs require that you open up Xcode, other labs ask that you open up the playground file. What does that mean?
 
-If you aren't familiar with Xcode, read [this](https://github.com/learn-co-curriculum/reading-ios-intro-to-xcode). If you aren't familiar with how tests work and what your interaction will be with them, read [this](https://github.com/learn-co-curriculum/swift-xcode-warnings-errors) next.
+We introduced you to Xcode earlier in this course and we'll cover it in more detail in subsequent lessons. For now, know that this lab is asking that you open up a playground file, and we'll walk you through those steps. The playground file has _no_ tests in it.
 
-This lab is asking that you open up a playground file, and we'll walk you through those steps. The playground file has _no_ tests in it.
-
-First things first, you should clone down this repository. If you aren't familiar with how to do that or the process of submitting labs, you should read [this](https://github.com/learn-co-curriculum/swift-functionFun-lab/tree/master).
+First things first, you should clone down this repository. If you aren't familiar with how to do that or the process of submitting labs, review the earlier lesson that covered this. 
 
 After cloning down this project, you should locate the directory in Terminal or locating it through finder.
 
@@ -60,7 +62,9 @@ What exactly is a Playground file? A *playground* is an interactive Swift coding
 Notice how in the right pane, the playground file is able to compile and run this code *while* I'm typing it in. That's awesome and makes it a really great tool to learn how to code. As you move forward in your "learning how to program" career, if you're ever challenged with a topic or want to brush up on some material, create your own *playground* by launching Xcode and just start writing some code!
 
 
-### Now.. move forward and complete this lab! Good luck.
+Now.. move forward and complete this lab! After you're done, make sure you save your changes and follow the correct steps to making a Pull Request. Review the earlier lesson that covered this process if you need a refresher. 
+
+Good luck.
 
 ![luck](https://media.giphy.com/media/cMnt7i2RykmpW/giphy.gif)
 
