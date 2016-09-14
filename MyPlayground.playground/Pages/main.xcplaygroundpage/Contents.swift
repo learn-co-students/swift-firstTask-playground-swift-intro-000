@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var bankBalance: Int = 0
 
 
 
@@ -24,14 +25,14 @@
 */
 // write your code here
 
-
+let puppy = "Bella"
 
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
 // write your code here
-
+print(puppy)
 
 
 
@@ -41,22 +42,22 @@
 // write your code here
 
 
-
+print("I just got a new puppy named \(puppy) and she is awesome!")
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
 
-
+print("I have $\(bankBalance) in my bank account.")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
-
+bankBalance += 100
+print("I now have $\(bankBalance).")
 
 
 /*: question7
@@ -64,7 +65,7 @@
 */
 // write your code here
 
-
+print("Imposible!")
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
