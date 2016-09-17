@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var myBankAccount: Int = 200
 
 
 
@@ -24,7 +25,7 @@
 */
 // write your code here
 
-
+let puppyName = "Bella"
 
 
 /*: question3
@@ -32,7 +33,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -40,6 +41,7 @@
 */
 // write your code here
 
+print("I just got a new puppy name \(puppyName) ans she is awesome!")
 
 
 
@@ -48,7 +50,7 @@
 */
 // write your code here
 
-
+print("I have $\(myBankAccount) in my bank account.")
 
 
 /*: question6
@@ -56,7 +58,9 @@
 */
 // write your code here
 
+myBankAccount += 100
 
+print("I now have $\(myBankAccount).")
 
 
 /*: question7
@@ -64,7 +68,7 @@
 */
 // write your code here
 
-
+puppyName = "Mark"
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
