@@ -16,14 +16,13 @@
 */
 // write your code here
 
-
-
+let bankBalance: Int = 100
 
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
-
+let petName: String = "Bella"
 
 
 
@@ -32,6 +31,7 @@
 */
 // write your code here
 
+print("Bella")
 
 
 
@@ -40,14 +40,14 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(petName)")
 
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
-
+print("I have $\(bankBalance) in my bank account")
 
 
 
@@ -55,7 +55,7 @@
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
+print("I now have $\(bankBalance + 100)")
 
 
 
@@ -63,7 +63,8 @@
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
-
+print("My puppy is \(petName = Rose)")
+//It wont let me change it because it is a constant
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
