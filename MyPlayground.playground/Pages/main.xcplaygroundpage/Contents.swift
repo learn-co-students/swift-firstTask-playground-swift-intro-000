@@ -16,6 +16,10 @@
 */
 // write your code here
 
+var myBankBalance = 100
+var myBankBalance2: Int = 100
+
+
 
 
 
@@ -24,8 +28,8 @@
 */
 // write your code here
 
-
-
+let puppyName = "Bella"
+let puppyName2: String = "Bella"
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
@@ -33,12 +37,13 @@
 // write your code here
 
 
-
+print(puppyName)
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
+print("I just got a new puppy named \(puppyName) and she is awesome!")
 
 
 
@@ -49,14 +54,14 @@
 // write your code here
 
 
-
+print("I have $\(myBankBalance) in my bank account.")
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
-
+myBankBalance = 200
+print("I now have $\(myBankBalance).")
 
 
 /*: question7
@@ -64,6 +69,10 @@
 */
 // write your code here
 
+puppyName = "John"
+
+//You cannot assign puppyName to a new value because it is a constant, and the values of constants cannot change
+//: You cannot assign `puppyName` to a new value because it is a _constant_, and the values of constants cannot change
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
