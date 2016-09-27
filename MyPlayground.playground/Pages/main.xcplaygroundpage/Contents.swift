@@ -58,7 +58,7 @@ bankBalance = bankBalance + 100
 */
 // write your code here
 
-//nameOfPuppy = "Bujji"
+nameOfPuppy = "Bujji"
 
 
 /*:
