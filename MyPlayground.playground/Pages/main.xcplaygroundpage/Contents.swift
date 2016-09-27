@@ -22,7 +22,7 @@ var bankBalance = 0
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
-let nameOfPuppy = "Bella"
+var nameOfPuppy = "Bella"
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
