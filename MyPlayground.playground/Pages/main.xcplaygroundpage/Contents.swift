@@ -63,8 +63,6 @@ myPuppiesName = "Mark"
 
 // You cannot change the value of a Constant once it has been initalized. However with a Variable you can change the value over time. I tried changing the puppies name to, Mark, but it wouldn't let me because I was using a Constant instead of a Variable. Once I changed the String from Constant to Variable, I was then able to declare a new name.
 
-
-
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
