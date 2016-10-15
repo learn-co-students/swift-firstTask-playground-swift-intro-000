@@ -14,14 +14,14 @@
 /*: question1
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
-var bankAccountBalance: Int
+var bankAccountBalance: Int //type annotations
 
 
 
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
-let puppyName = "Bella"
+let puppyName = "Bella" //type inference
 
 
 
