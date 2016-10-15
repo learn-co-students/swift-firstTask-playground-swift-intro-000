@@ -25,7 +25,7 @@ balance=0
 */
 // write your code here
 
-var pupName="Bella"
+let pupName="Bella"
 
 
 
