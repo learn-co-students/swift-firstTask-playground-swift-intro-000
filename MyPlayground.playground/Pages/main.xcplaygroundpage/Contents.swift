@@ -16,6 +16,9 @@
 */
 // write your code here
 
+var bankAccountBalance: Int
+
+
 
 
 
@@ -23,6 +26,8 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+
+let puppyName = "Bella"
 
 
 
@@ -32,6 +37,8 @@
 */
 // write your code here
 
+print(puppyName)
+
 
 
 
@@ -40,14 +47,17 @@
 */
 // write your code here
 
-
+var someAdj = "aweSOME"
+print("my new puppy name is \(puppyName) and she is \(someAdj)")
 
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
+bankAccountBalance = 100
 
+print("I have $<balance> in my account")
 
 
 
@@ -56,6 +66,7 @@
 */
 // write your code here
 
+print("I have $\(bankAccountBalance) in my account")
 
 
 
@@ -64,6 +75,7 @@
 */
 // write your code here
 
+let puppyName = "notBella" //previously declared variable 
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
