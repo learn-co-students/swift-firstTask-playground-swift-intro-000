@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var bankAccountBalance: Int = 100000000
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppyName: String = "Bella"
 
 
 /*: question3
@@ -33,14 +33,14 @@
 // write your code here
 
 
-
+print(puppyName)
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
 
-
+print("i just got a new puppy named \(puppyName) and she is awesome!")
 
 
 /*: question5
@@ -48,15 +48,15 @@
 */
 // write your code here
 
-
+print("I have $ \(bankAccountBalance) in my bank account.")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
-
+bankAccountBalance = bankAccountBalance + 100
+print("I now have $\(bankAccountBalance)")
 
 
 /*: question7
