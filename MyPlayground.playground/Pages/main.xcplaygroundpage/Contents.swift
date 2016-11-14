@@ -15,6 +15,7 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
+var balance: Int = 1000000
 
 
 
@@ -24,6 +25,7 @@
 */
 // write your code here
 
+var new_puppy: String = "Bella"
 
 
 
@@ -31,7 +33,7 @@
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
 // write your code here
-
+print(new_puppy)
 
 
 
@@ -39,6 +41,8 @@
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
+
+print("I just got a new puppy named \(new_puppy) and she is awesome!")
 
 
 
@@ -49,6 +53,8 @@
 // write your code here
 
 
+print("I have $\(balance) in my bank account.")
+
 
 
 /*: question6
@@ -56,13 +62,17 @@
 */
 // write your code here
 
+balance += 100
 
+print("I now have $\(balance).")
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+
+new_puppy = "Sky"
 
 
 /*:
