@@ -15,7 +15,7 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
-
+var bankBalance = 5
 
 
 
@@ -23,7 +23,7 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
-
+let dogName = "Bella"
 
 
 
@@ -31,7 +31,7 @@
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
 // write your code here
-
+print(dogName)
 
 
 
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("There is a new dog around, she's called \(dogName)")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("Current Bank Balance is $\(bankBalance)")
 
 
 /*: question6
@@ -56,7 +56,9 @@
 */
 // write your code here
 
+    bankBalance += 100
 
+    print("After some graft, bank balance is now $\(bankBalance)")
 
 
 /*: question7
@@ -64,7 +66,7 @@
 */
 // write your code here
 
-
+//This can't be done with a constant
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
