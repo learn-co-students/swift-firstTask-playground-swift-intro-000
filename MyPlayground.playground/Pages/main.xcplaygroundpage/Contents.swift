@@ -63,7 +63,9 @@ print("I now have $\(birthdayGift+accountBalance)")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-puppyName = "Gary"
+// You can't change the value of a constant, this draws an invalid redeclartion error
+
+let puppyName = "Gary"
 
 
 /*:
