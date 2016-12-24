@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var bankAccunt:int = 82,623
 
 
 
@@ -23,6 +24,8 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+
+let name = "Bella"
 
 
 
@@ -32,6 +35,8 @@
 */
 // write your code here
 
+print(name)
+
 
 
 
@@ -40,6 +45,10 @@
 */
 // write your code here
 
+var setence = "I just got a new puppy named Bella"
+print(name)
+
+
 
 
 
@@ -47,6 +56,8 @@
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
+var string = "I have (/82,623) in my bank acccount"
+
 
 
 
@@ -57,6 +68,8 @@
 // write your code here
 
 
+var bankAccount:int = 82,723
+print(bankAccount)
 
 
 /*: question7
@@ -64,7 +77,7 @@
 */
 // write your code here
 
-
+// Bella was declared  as a contsant via ```Let``` , and therefore can't be decelared
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
