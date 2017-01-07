@@ -16,9 +16,7 @@
 */
 // write your code here
 
-
-
-
+print("i dont know")
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
