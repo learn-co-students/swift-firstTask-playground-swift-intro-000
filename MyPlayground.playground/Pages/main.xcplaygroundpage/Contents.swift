@@ -57,7 +57,7 @@ print("I know have $\(bankAccountBalance)")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-//You cannot change the name from Bella to something else because you set the variable to let which is a constant.
+//You cannot change the name from Bella to something else because you set the variable to let which is a constant. A constant is immutable
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
