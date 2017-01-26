@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var myPalance = 500
 
 
 /*: question2
@@ -24,6 +24,7 @@
 */
 // write your code here
 
+let puppy = "Bella"
 
 
 
@@ -32,15 +33,14 @@
 */
 // write your code here
 
-
-
+print(puppy)
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppy) and she is awesome!")
 
 
 /*: question5
@@ -49,6 +49,7 @@
 // write your code here
 
 
+print("I have $\(myPalance) in my bank account.")
 
 
 /*: question6
@@ -56,7 +57,9 @@
 */
 // write your code here
 
+myPalance = myPalance + 100
 
+print("I now have $\(myPalance)")
 
 
 /*: question7
@@ -64,7 +67,7 @@
 */
 // write your code here
 
-
+// I can't change constant
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
