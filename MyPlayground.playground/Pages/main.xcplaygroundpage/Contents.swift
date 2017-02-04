@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var bankbalance = 100000
 
 
 
@@ -23,6 +24,8 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+
+let puppyname = "chutia"
 
 
 
@@ -33,12 +36,16 @@
 // write your code here
 
 
-
+print(puppyname)
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
+
+
+print("I just got a new puppy named (puppyname) and she is awesome!")
+
 
 
 
@@ -48,6 +55,7 @@
 */
 // write your code here
 
+print("i have $ \(bankbalance) in my bank account.")
 
 
 
@@ -56,6 +64,10 @@
 */
 // write your code here
 
+bankbalance+100
+
+print("i now have $\(bankbalance).")
+
 
 
 
@@ -63,6 +75,7 @@
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+
 
 
 /*:
