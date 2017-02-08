@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var accountBalance = 3500.29
 
 
 
@@ -24,7 +25,7 @@
 */
 // write your code here
 
-
+let puppyName = "Bella"
 
 
 /*: question3
@@ -32,7 +33,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -41,7 +42,7 @@
 // write your code here
 
 
-
+print("I just got a new puppy named \(puppyName) and she is awesome!")
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
@@ -49,14 +50,16 @@
 // write your code here
 
 
-
+print("I have $\(accountBalance) in my bank account.")
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
 
+accountBalance += 100
 
+print("I now have $\(accountBalance).")
 
 
 /*: question7
@@ -64,7 +67,7 @@
 */
 // write your code here
 
-
+// Answer: I can't change the puppies name becasuse I used a constant instead of a variable. Constants are immutable, meaning they cannot be changed.
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
