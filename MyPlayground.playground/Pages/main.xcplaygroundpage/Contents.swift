@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var accountBalance = 999999.99
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let myPet = "Bella";
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print("My pet's name is \(myPet)")
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(myPet)")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have \(accountBalance) in my bank account.")
 
 
 /*: question6
@@ -56,7 +56,7 @@
 */
 // write your code here
 
-
+print("I now have \(accountBalance + 100)")
 
 
 /*: question7
@@ -64,7 +64,7 @@
 */
 // write your code here
 
-
+// let are constant values that cannot be changed
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
