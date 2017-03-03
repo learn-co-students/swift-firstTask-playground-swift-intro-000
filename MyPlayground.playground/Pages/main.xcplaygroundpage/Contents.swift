@@ -16,15 +16,15 @@
 */
 // write your code here
 
-
-
+var accountBalance: Int
+accountBalance = 1957836
 
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
 
-
+let puppyName: String = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppyName) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have \(accountBalance) in my bank account.")
 
 
 /*: question6
@@ -56,15 +56,19 @@
 */
 // write your code here
 
+accountBalance += 100
 
-
+print("I now have \(accountBalance)")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+/*
+I can't do this because I declared variable as constant
+Constants can't be changed once they were declared
+*/
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
