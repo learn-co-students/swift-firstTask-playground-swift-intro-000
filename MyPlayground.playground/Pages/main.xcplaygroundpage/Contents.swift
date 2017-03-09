@@ -15,7 +15,10 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
+var accountBalance = 1000000
+var jim = 0
 
+jim += 1
 
 
 
@@ -24,7 +27,7 @@
 */
 // write your code here
 
-
+let puppy = "Bella"
 
 
 /*: question3
@@ -32,7 +35,7 @@
 */
 // write your code here
 
-
+print(puppy)
 
 
 /*: question4
@@ -40,13 +43,15 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named /(puppy) and she is awesome!")
 
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
+print("I have /(accountBalance) in my bank account")
+
 
 
 
@@ -56,7 +61,8 @@
 */
 // write your code here
 
-
+accountBalance += 100
+print("I now have /(accountBalance)")
 
 
 /*: question7
