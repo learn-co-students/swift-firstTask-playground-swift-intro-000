@@ -14,23 +14,23 @@
 /*: question1
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
-// write your code here
 
+
+var accountBalance = 1500
 
 
 
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
-// write your code here
 
-
+let name = "Bella"
 
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
-// write your code here
+print(name)
 
 
 
@@ -38,23 +38,25 @@
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
-// write your code here
 
-
+ print("I just got a new puppy named \(name) and she is awesome.")
 
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
-// write your code here
 
+
+print("I have $\(accountBalance)  in my bank account.")
 
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
-// write your code here
+
+accountBalance = 1600
+print("I now have $\(accountBalance).")
 
 
 
@@ -62,7 +64,16 @@
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// write your code here
+
+
+//name = "Kim"
+
+
+/* At first place I created a constant called 'name' of type 'string', with a value 'Bella', that is unchangeable (I can not change it) - After trying to change the value It creates a error 'Cannot assign value:'name' is a 'let' constant. So a solution could be in code..I need to create a new variable 'var' instead of a 'constant' called for example 'newName' giving a new value of a string 'Kim'.
+*/
+
+var (newName) = "Kim"
+print(newName)
 
 
 /*:
