@@ -14,7 +14,7 @@
 /*: question1
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
-// write your code here
+var bankBalance: Int;
 
 
 
@@ -22,15 +22,15 @@
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
-// write your code here
-
+let puppy = "Bella";
+	
 
 
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
-// write your code here
+print(puppy)
 
 
 
@@ -38,7 +38,7 @@
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
-// write your code here
+print("I just got a new puppy named \(puppy) and she is awesome!")
 
 
 
