@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var balance = 1000
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppyName = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -40,15 +40,14 @@
 */
 // write your code here
 
-
+print("i just got a new puppy named " + puppyName + " and she is awesome")
 
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
-
-
+print("I have $" + "\(balance)")
 
 
 /*: question6
@@ -56,15 +55,15 @@
 */
 // write your code here
 
-
-
+balance = balance + 100
+print("I have now $\(balance)")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+puppyName = Ditia
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
