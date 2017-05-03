@@ -38,8 +38,6 @@ print(newPuppy)
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
-// write your code here
-
 print("I just got a new puppy and her name is \(newPuppy)")
 
 
@@ -62,7 +60,6 @@ print("I now have a balance of \(bankBalance)")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// write your code here
 
 // let is a constant and you cannot modify a constant once delcared.
 
