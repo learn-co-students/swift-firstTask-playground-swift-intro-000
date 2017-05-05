@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var myBalance:Int = 300_000
 
 
 /*: question2
@@ -24,14 +24,14 @@
 */
 // write your code here
 
-
+let puppy:String = "mypuppy"
 
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
 // write your code here
-
+print(puppy)
 
 
 
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("i just got \(puppy) and she is nice")
 
 
 /*: question5
@@ -48,6 +48,7 @@
 */
 // write your code here
 
+print("I have \(myBalance) in my bank")
 
 
 
@@ -57,14 +58,15 @@
 // write your code here
 
 
-
+myBalance = myBalance + 9_100;
+print("I now have \(myBalance)")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+//puppy = "bellaswan"
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
