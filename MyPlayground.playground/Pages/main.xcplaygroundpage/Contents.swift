@@ -62,7 +62,7 @@ print("I now have $\(balance).")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// write your code here
+
 
 
 /*:
