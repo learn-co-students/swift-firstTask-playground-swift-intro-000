@@ -15,6 +15,8 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
+var BankAcountBalance = Int()
+
 
 
 
@@ -23,6 +25,8 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+var MyPuppyName = "Bella"
+
 
 
 
@@ -32,6 +36,7 @@
 */
 // write your code here
 
+print(MyPuppyName)
 
 
 
@@ -40,6 +45,7 @@
 */
 // write your code here
 
+print("I just got new puppy named \(MyPuppyName) and she is awesome")
 
 
 
@@ -48,13 +54,17 @@
 */
 // write your code here
 
-
+print("i have \(BankAcountBalance) in my bank accuont")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
+BankAcountBalance = BankAcountBalance + 100
+
+print("I now have $ \(BankAcountBalance)")
+
 
 
 
@@ -63,6 +73,11 @@
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+//we wont be able because we used let
+
+MyPuppyName = "zee"
+
+
 
 
 /*:
