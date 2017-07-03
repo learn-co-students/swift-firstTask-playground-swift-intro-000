@@ -16,6 +16,7 @@
 */
 // write your code here
 
+var BankBalance = 500
 
 
 
@@ -23,6 +24,7 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+let PuppyName = "Puppy"
 
 
 
@@ -32,7 +34,7 @@
 */
 // write your code here
 
-
+print(PuppyName)
 
 
 /*: question4
@@ -40,7 +42,7 @@
 */
 // write your code here
 
-
+print("i just got a new puppy named \(PuppyName) And she is awesome!")
 
 
 /*: question5
@@ -48,15 +50,14 @@
 */
 // write your code here
 
-
-
+print("i have $\(BankBalance) in my account.")
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
-
+var newbalance = BankBalance+100
+print("i now have $\(newbalance)")
 
 
 /*: question7
@@ -64,7 +65,7 @@
 */
 // write your code here
 
-
+// i alraady diclare my puppy's name as constant so i cant change it.
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
