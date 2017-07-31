@@ -15,7 +15,7 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
-
+var balance: Float64 = 100;
 
 
 
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppyName: String = "Feather";
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppyName);
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppyName) and she is AWESOME!");
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have $\(balance) in my bank account")
 
 
 /*: question6
@@ -56,14 +56,18 @@
 */
 // write your code here
 
+balance += 100;
 
+print("Now I have $\(balance)")
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+puppyName = "Another name failed!";
 
+// cannot assign new value to constant
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
