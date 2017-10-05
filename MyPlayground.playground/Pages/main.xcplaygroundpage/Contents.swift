@@ -16,13 +16,15 @@
 */
 // write your code here
 
-
+var bankAccountBalance = 150
 
 
 /*: question2
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
+
+let dogsName = "Bella"
 
 
 
@@ -33,14 +35,14 @@
 // write your code here
 
 
-
+print(dogsName)
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
 
-
+print("just got a new puppy named\(dogsName) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +50,7 @@
 */
 // write your code here
 
-
+print("i have \(bankAccountBalance) in my bank account.")
 
 
 /*: question6
@@ -56,15 +58,15 @@
 */
 // write your code here
 
-
-
+bankAccountBalance += 100
+bankAccountBalance
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+// cant change a constants value once its been set
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
