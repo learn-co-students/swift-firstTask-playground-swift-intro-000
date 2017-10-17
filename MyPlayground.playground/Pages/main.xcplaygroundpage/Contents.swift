@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var balance = 32
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppyName = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppyName) and she is awesome")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have $\(balance) in my bank account.")
 
 
 /*: question6
@@ -56,15 +56,15 @@
 */
 // write your code here
 
-
-
+balance = balance + 100
+print("I now have $\(balance).")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+puppyName = "notBella"
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
