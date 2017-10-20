@@ -59,7 +59,7 @@ print("I now have $\(bankAccountBalance2)")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// Cannot make changes to a constant, it is immutables
+// Cannot make changes to a constant, it is immutable
 
 
 
