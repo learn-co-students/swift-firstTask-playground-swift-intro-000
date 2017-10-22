@@ -60,7 +60,7 @@ print("I now have $\(bankBalance).")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-//puppyName = "Bella"
+puppyName = "Bella"
 
 // No. It pulls an error message. I can't change the puppyName variable to a different value becuase I already specificed the value "Bella" as a constant.
 /*:
