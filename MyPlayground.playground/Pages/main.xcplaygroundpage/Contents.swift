@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var myBankBalance: Float = 100.01
 
 
 /*: question2
@@ -24,6 +24,7 @@
 */
 // write your code here
 
+let myPuppy = "Weslia"
 
 
 
@@ -32,7 +33,7 @@
 */
 // write your code here
 
-
+print("My new puppy's name is \(myPuppy).")
 
 
 /*: question4
@@ -40,7 +41,7 @@
 */
 // write your code here
 
-
+print ("I just got a new puppy named \(myPuppy) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +49,7 @@
 */
 // write your code here
 
-
+print("I have \(myBankBalance) in my account.")
 
 
 /*: question6
@@ -56,13 +57,14 @@
 */
 // write your code here
 
-
+myBankBalance = myBankBalance + 100.0
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+
 
 
 /*:
