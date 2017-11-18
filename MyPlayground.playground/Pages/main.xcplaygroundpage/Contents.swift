@@ -64,7 +64,7 @@ print ("I now have $\(bankBalance).")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// no i cant do this because i set \(puppy) as let not var because it shouldnt her name shouldn't change.
+// no I can't do this because i set \(puppy) as let not var because it shouldnt her name shouldn't change.
 puppy = ("Dog")
 
 
