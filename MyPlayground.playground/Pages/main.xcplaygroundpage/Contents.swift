@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var bankAccountBalance: Int = 120
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let myPetsName: String = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print ("\(myPetsName)")
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print ("I just got a new puppy named \(myPetsName) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print ("I have $\(bankAccountBalance) in my bank account.")
 
 
 /*: question6
@@ -56,15 +56,16 @@
 */
 // write your code here
 
-
+print ("I now have $\(bankAccountBalance + 100).")
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+myPetsName = "Liz" //doesn't work because myPetsName is a constant
 
-
-
-
-//: [Solution](solution)
+/*:
+ Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
+ 
+ */
