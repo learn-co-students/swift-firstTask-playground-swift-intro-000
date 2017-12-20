@@ -65,7 +65,11 @@ print("I now have $\(Bankaccount)")
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
-// write your code here
+//PuppyName = "Turbo"
+// Using Let assigns the name Bella as a constant and can only be initialized once.
+
+var Puppynewname = "Turbo"
+print(Puppynewname)
 
 
 /*:
