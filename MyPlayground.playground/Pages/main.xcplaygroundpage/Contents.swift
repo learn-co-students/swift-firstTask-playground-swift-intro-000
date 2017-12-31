@@ -16,6 +16,9 @@
 */
 // write your code here
 
+var balance: Double = 30000.0
+print (balance)
+
 
 
 
@@ -24,7 +27,7 @@
 */
 // write your code here
 
-
+let name: String = "Bella"
 
 
 /*: question3
@@ -32,14 +35,14 @@
 */
 // write your code here
 
-
+print (name)
 
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
-
+print("I just got a new puppy named  \(name) and she is awesome!")
 
 
 
@@ -48,14 +51,15 @@
 */
 // write your code here
 
-
+print ("I have $\(balance) in my bank account.")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
+balance = 3100
+print ("I now have $\(balance).")
 
 
 
@@ -64,6 +68,7 @@
 */
 // write your code here
 
+//cant do this because it is a let
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
