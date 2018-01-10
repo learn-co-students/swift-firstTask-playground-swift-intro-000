@@ -16,6 +16,9 @@
 */
 // write your code here
 
+var bank:Int = 2000000
+
+
 
 
 
@@ -24,7 +27,7 @@
 */
 // write your code here
 
-
+let name:String = "Felicia"
 
 
 /*: question3
@@ -32,7 +35,7 @@
 */
 // write your code here
 
-
+print(name)
 
 
 /*: question4
@@ -48,15 +51,16 @@
 */
 // write your code here
 
-
+print("I have $\(bank) in my bank account")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
+bank = bank + 100
 
-
+print("I now have $\(bank) in my bank account.")
 
 
 /*: question7
@@ -64,6 +68,7 @@
 */
 // write your code here
 
+// you can't bc its a let
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
