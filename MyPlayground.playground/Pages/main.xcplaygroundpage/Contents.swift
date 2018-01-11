@@ -16,6 +16,8 @@
 */
 // write your code here
 
+var bankBalance: Int = 50
+
 
 
 
@@ -24,7 +26,7 @@
 */
 // write your code here
 
-
+let puppyName: String = "Bella"
 
 
 /*: question3
@@ -32,7 +34,7 @@
 */
 // write your code here
 
-
+print(puppyName)
 
 
 /*: question4
@@ -40,7 +42,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppyName) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +50,7 @@
 */
 // write your code here
 
-
+print("I have $\(50) in my bank account.")
 
 
 /*: question6
@@ -56,7 +58,8 @@
 */
 // write your code here
 
-
+bankBalance = 150
+print("I now have $\(bankBalance).")
 
 
 /*: question7
