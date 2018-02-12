@@ -15,7 +15,7 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
-
+var negativeAccountBalance = -40000
 
 
 
@@ -23,7 +23,7 @@
 ### 2. You went to your local pet store and purchased yourself a puppy. You decided to name the puppy Bella. Once you named her, that name will stick with her forever. Create a variable that stores the name of your new puppy.
 */
 // write your code here
-
+let myPuppy = "Bella"
 
 
 
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print (myPuppy)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(myPuppy) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print ("I have  $\(negativeAccountBalance) in my bank account")
 
 
 /*: question6
@@ -56,6 +56,9 @@
 */
 // write your code here
 
+negativeAccountBalance = -39900
+
+print("I now have $\(negativeAccountBalance)")
 
 
 
@@ -64,6 +67,7 @@
 */
 // write your code here
 
+// Can't because it's a constant and an error would show up
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
