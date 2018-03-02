@@ -15,6 +15,7 @@
 ### 1. Create a variable which represents your bank account balance. (For example: What is a good name for this variable that makes it easily readable for myself now and for the future me _or_ other developers I might be working with? Should I declare it using `let` or `var`? Should it be of type `Int` or `String`?)
 */
 // write your code here
+var myBankBalance:Int =  1200
 
 
 
@@ -24,6 +25,7 @@
 */
 // write your code here
 
+let myPuppy:String =  "Bella"
 
 
 
@@ -32,14 +34,14 @@
 */
 // write your code here
 
-
+print(myPuppy)
 
 
 /*: question4
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
-
+print("I just got a new puppy named \(myPuppy) and she is awesome!")
 
 
 
@@ -47,6 +49,7 @@
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
 */
 // write your code here
+print("I have $\(myBankBalance)> in my bank account")
 
 
 
@@ -55,8 +58,8 @@
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
-
-
+myBankBalance =  myBankBalance + 100
+print("I now have $\(myBankBalance)")
 
 
 /*: question7
