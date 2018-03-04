@@ -16,6 +16,9 @@
 */
 // write your code here
 
+var accountBalance: Int
+accountBalance = 0
+
 
 
 
@@ -24,6 +27,9 @@
 */
 // write your code here
 
+var  puppyName: String?
+
+puppyName = "Sakura"
 
 
 
@@ -32,6 +38,7 @@
 */
 // write your code here
 
+print(puppyName!)
 
 
 
@@ -39,6 +46,8 @@
 ### 4. Use the `print()` function to print the sentence "I just got a new puppy named <your puppy's name> and she is awesome!" to the console.
 */
 // write your code here
+
+print(" I just got a new puppy her name is \(puppyName)")
 
 
 
@@ -48,13 +57,15 @@
 */
 // write your code here
 
-
+print("I have \(accountBalance) in my bank account")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
+accountBalance = 100
+print("I now have \(accountBalance)")
 
 
 
@@ -64,7 +75,11 @@
 */
 // write your code here
 
+/* No you can not change the value of a constant variable.
+ The only way i could update this variable is if i convert this constant variable to a variable with the var keyword.
+*/
 
+puppyName = "Mickey"
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
