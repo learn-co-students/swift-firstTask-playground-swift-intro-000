@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var balance = 100
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let dogName = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print("\(dogName)")
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("\(dogName)")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have \(balance) in my bank account")
 
 
 /*: question6
@@ -56,14 +56,14 @@
 */
 // write your code here
 
-
-
+balance = 200
+print("I have \(balance) in my bank account")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
-
+//dogName is a constant. Cannot change its value.
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
