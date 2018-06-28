@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var accountBalance:Int = 500
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+var petName:String = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(petName)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(petName) and she is awesome")
 
 
 /*: question5
@@ -48,22 +48,23 @@
 */
 // write your code here
 
-
+print("I have $\(accountBalance) in my bank account")
 
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
+accountBalance += 100
 
-
+print("I now have $\(accountBalance).")
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
-
+petName = "cutie"
 
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
