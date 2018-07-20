@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var bankBalance = 1
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppyName = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print (puppyName)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print ("I just got a new puppy named \(puppyName) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print ("I have \(bankBalance) in my bank account")
 
 
 /*: question6
@@ -56,7 +56,7 @@
 */
 // write your code here
 
-
+print ("I now have $\(bankBalance + 100)")
 
 
 /*: question7
@@ -64,7 +64,7 @@
 */
 // write your code here
 
-
+//let is immutable
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
