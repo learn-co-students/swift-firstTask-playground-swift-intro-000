@@ -16,6 +16,8 @@
 */
 // write your code here
 
+var accountBalance = 2000.00
+
 
 
 
@@ -25,14 +27,14 @@
 // write your code here
 
 
-
+let puppy = "Bella"
 
 /*: question3
 ### 3. Use the `print()` function to print the name of your new puppy to the console.
 */
 // write your code here
 
-
+print(puppy)
 
 
 /*: question4
@@ -41,7 +43,7 @@
 // write your code here
 
 
-
+print("I just got a new puppy named \(puppy) and she is awesome!")
 
 /*: question5
 ### 5. Use the `print()` function to print the sentence "I have $<balance> in my bank account." to the console.
@@ -49,20 +51,24 @@
 // write your code here
 
 
-
+print("I have $\(accountBalance) in my bank account.")
 
 /*: question6
 ### 6. Congratulations! You just got $100 for your birthday, so now you have $100 more in your bank account. Update your bank account with the new balance and print "I now have $<balance>." to the console.
 */
 // write your code here
 
-
+accountBalance += 100
+print("I now have $\(accountBalance).")
 
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
+
+puppy = "Bellina"
+
 
 
 /*:
