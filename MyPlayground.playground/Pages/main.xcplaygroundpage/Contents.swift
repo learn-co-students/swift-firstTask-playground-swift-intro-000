@@ -64,7 +64,7 @@ print("I now have \(bankAccountBalance + 100)")
 */
 // write your code here
 
-var puppyName: String = "Cutie"  //Can't redeclaration of a variable
+ puppyName: String = "Cutie"  //Can't redeclaration of a variable
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
