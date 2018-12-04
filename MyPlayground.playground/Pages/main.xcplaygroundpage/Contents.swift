@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var bankBalance = 1000
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppy = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppy)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppy) and she is awesome!")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have $\(bankBalance) in my bank account.")
 
 
 /*: question6
@@ -56,15 +56,16 @@
 */
 // write your code here
 
+bankBalance += 100
 
-
+print("I now have $\(bankBalance)")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+//its a constant.
 /*:
  Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
  
